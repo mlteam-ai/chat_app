@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAo-ANsU5glQ5PHUmGPA00EK7vv1gwonX8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>988234851892</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mlteam.chatApp</string>
+	<key>PROJECT_ID</key>
+	<string>mlteam-dummy-backend</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mlteam-dummy-backend.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:988234851892:ios:39089a1f1eb51963b44c61</string>
+	<key>DATABASE_URL</key>
+	<string>https://mlteam-dummy-backend-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

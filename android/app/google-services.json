@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "988234851892",
+    "firebase_url": "https://mlteam-dummy-backend-default-rtdb.firebaseio.com",
+    "project_id": "mlteam-dummy-backend",
+    "storage_bucket": "mlteam-dummy-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988234851892:android:6da2bbfb889f3e95b44c61",
+        "android_client_info": {
+          "package_name": "com.mlteam.chatApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD839ddkuyVinOSy0t806weux7ACRlgZnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
