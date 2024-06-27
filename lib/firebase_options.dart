@@ -67,12 +67,12 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyAo-ANsU5glQ5PHUmGPA00EK7vv1gwonX8',
-    appId: '1:988234851892:ios:39089a1f1eb51963b44c61',
+    appId: '1:988234851892:ios:a9503d9377f9ab0eb44c61',
     messagingSenderId: '988234851892',
     projectId: 'mlteam-dummy-backend',
     databaseURL: 'https://mlteam-dummy-backend-default-rtdb.firebaseio.com',
     storageBucket: 'mlteam-dummy-backend.appspot.com',
-    iosBundleId: 'com.example.chatApp',
+    iosBundleId: 'com.mlteam.chatApp',
   );
 
 }

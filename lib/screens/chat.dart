@@ -19,8 +19,9 @@ class _ChatScreenState extends State<ChatScreen> {
         AuthorizationStatus.authorized) {
       return;
     }
-    final token = await fbm.getToken();
-    print('Token: $token');
+    fbm.subscribeToTopic('chat');
+    //final token = await fbm.getToken();
+    //print('Token: $token');
   }
 
   @override

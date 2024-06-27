@@ -1,31 +1,44 @@
 {
-    "flutter": {
-        "platforms": {
-            "android": {
-                "default": {
-                    "projectId": "mlteam-dummy-backend",
-                    "appId": "1:988234851892:android:6da2bbfb889f3e95b44c61",
-                    "fileOutput": "android/app/google-services.json"
-                }
-            },
-            "ios": {
-                "default": {
-                    "projectId": "mlteam-dummy-backend",
-                    "appId": "1:988234851892:ios:39089a1f1eb51963b44c61",
-                    "uploadDebugSymbols": false,
-                    "fileOutput": "ios/Runner/GoogleService-Info.plist"
-                }
-            },
-            "dart": {
-                "lib/firebase_options.dart": {
-                    "projectId": "mlteam-dummy-backend",
-                    "configurations": {
-                        "android": "1:988234851892:android:6da2bbfb889f3e95b44c61",
-                        "ios": "1:988234851892:ios:39089a1f1eb51963b44c61",
-                        "web": "1:988234851892:web:ca84c67ca56aae65b44c61"
-                    }
-                }
-            }
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "mlteam-dummy-backend",
+          "appId": "1:988234851892:android:6da2bbfb889f3e95b44c61",
+          "fileOutput": "android/app/google-services.json"
         }
+      },
+      "ios": {
+        "default": {
+          "projectId": "mlteam-dummy-backend",
+          "appId": "1:988234851892:ios:a9503d9377f9ab0eb44c61",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "mlteam-dummy-backend",
+          "configurations": {
+            "android": "1:988234851892:android:6da2bbfb889f3e95b44c61",
+            "ios": "1:988234851892:ios:a9503d9377f9ab0eb44c61",
+            "web": "1:988234851892:web:ca84c67ca56aae65b44c61"
+          }
+        }
+      }
     }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "venv",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
 }

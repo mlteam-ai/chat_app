@@ -25,7 +25,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:988234851892:ios:39089a1f1eb51963b44c61</string>
+	<string>1:988234851892:ios:a9503d9377f9ab0eb44c61</string>
 	<key>DATABASE_URL</key>
 	<string>https://mlteam-dummy-backend-default-rtdb.firebaseio.com</string>
 </dict>
